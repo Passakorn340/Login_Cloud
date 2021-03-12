@@ -36,6 +36,7 @@ export default {
         .signOut()
         .then(() => {
           console.log("signOut Complete");
+          alert("SignOut Complete");
         })
         .catch((error) => {
           console.log(error);
