@@ -8,12 +8,12 @@ import "firebase/auth";
 // Initialize Cloud Firestore through Firebase
 if (!firebase.apps.length) {
     const firebaseConfig = {
-        apiKey: "AIzaSyAonBosbdtbGu8M7of3K6TfstCSPkjRlHg",
-        authDomain: "logincloud-12fa6.firebaseapp.com",
-        projectId: "logincloud-12fa6",
-        storageBucket: "logincloud-12fa6.appspot.com",
-        messagingSenderId: "271978555144",
-        appId: "1:271978555144:web:864296b416e19ad5b96ebd"
+        apiKey: "AIzaSyDf-n6MkiSqxSfYhjvuCfiA0btpPuVm4EM",
+        authDomain: "logincloud-f9577.firebaseapp.com",
+        projectId: "logincloud-f9577",
+        storageBucket: "logincloud-f9577.appspot.com",
+        messagingSenderId: "678457466307",
+        appId: "1:678457466307:web:f82a25fbe55ad322b87176"
     };
     firebase.initializeApp(firebaseConfig);
 }
