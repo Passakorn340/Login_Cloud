@@ -2,7 +2,7 @@
   <div class="container">
     <b-card>
       <b-btn variant="success" class="mr-1" @click="login">Login</b-btn>
-      <b-btn variant="danger" class="ml-1" @click="Logout">Logout</b-btn>
+      <b-btn variant="danger" class="ml-1" @click="logout">Logout</b-btn>
     </b-card>
   </div>
 </template>
